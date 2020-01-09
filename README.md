@@ -13,7 +13,7 @@ Do projektu wykorzystałem:
 Krótki opis działania:
 Program po wybraniu na klawiaturze cyfry rozpoczyna działanie:
 1) Szyfruje szyfrem TEA nasza wiadomosc i wpisuje szyfr w postaci uint32_t do zmiennej globalnej
-2) Nastepuje zamiana szyfru z int na tablice intów (reprezentacja binarna) i kodowanie kodem Hamminga
+2) Nastepuje zamiana szyfru z liczby w systemmie dziesiętnym na reprezentacja binarna (tablice intów) i kodowanie kodem Hamminga
 3) Przysłanie zakodowanej i zaszyfrowanej wiadomości za pomocą Diody i Fororezystroa 
 4) Dekodowanie
 5) Deszyfowanie
