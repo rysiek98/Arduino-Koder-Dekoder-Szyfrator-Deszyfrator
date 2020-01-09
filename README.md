@@ -5,10 +5,10 @@ Projekt: Koder/Dekoder kodu Hamminga & Szyfrator/Deszyfrator TEA zrealizowany na
 Do projektu wykorzystałem: 
 -Arduino UNO 
 -Fotorezystor (służy do odbierania wiadomości) 
--Dioda (nadanie wiadomości) -Klawiatura (wprowadzanie cyfry) -
-przewody
+-Dioda (nadanie wiadomości) -Klawiatura (wprowadzanie cyfry) 
+-przewody
 -rezystory 220 Ohm 
--płytka stykowa -panel LCD 16,2
+-płytka stykowa -panel LCD (16,2)
 
 Krótki opis działania:
 Program po wybraniu na klawiaturze cyfry rozpoczyna działanie:
