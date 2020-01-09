@@ -1,4 +1,4 @@
-# Arduino-Koder-Dekoder-Szyfrator-Deszyfrator
+# Arduino Koder-Dekoder-Szyfrator-Deszyfrator
 
 Projekt: Koder/Dekoder kodu Hamminga & Szyfrator/Deszyfrator TEA zrealizowany na Arduino UNO, pozwalający na wprowadzanie cyfr z zakresu 1-13, (liczby 35 i 42 wprowadzane poprzez wciśniecie # lub * służą testowemu przekłamaniu jednego bitu (ustawiona jest zmiana 38 bita na przeciwny bit) by pokazać prawidłowe działanie kodu Hamminga).
 
