@@ -20,5 +20,6 @@ Program po wybraniu na klawiaturze cyfry rozpoczyna działanie:
 
 Gdy wprowadzimy # lub * program dla odpowidajacym znaką wartoscia DEC według kodu ASCII wykona operacje, lecz dokonane zostanie przekłamanie ostatniego bitu (zamiana na przwciwny) celem pokazania możliwosci kodu Hamminga
 
+# Prezentacja działania https://youtu.be/YpyHDQIto3s 
 
 Wykonanie  Michał Ryszka Styczneń 2020 
