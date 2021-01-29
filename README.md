@@ -42,11 +42,11 @@ Items used in project:
 How it works:
 1) User input one digits from 1-13 using keyboard (* and # are using to show that Hamming code can reapair one false bit, 
 which is intentionally distorted after pressing * or #)
-2)Inputed digit is encrypted using TEA 
-3)Encrypted date is converted to binary represenatation and code using Hamming code
-4)Code and encrypted message is send using diode and photoresistor
-5)Message after reciving is decoded and decypred. 
+2) Inputed digit is encrypted using TEA 
+3) Encrypted date is converted to binary represenatation and code using Hamming code
+4) Code and encrypted message is send using diode and photoresistor
+5) Message after reciving is decoded and decypred. 
 
 # Work presentation https://youtu.be/YpyHDQIto3s 
 
-Made by Michał Ryszka January 2020 
+Created by Michał Ryszka January 2020 
